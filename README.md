@@ -1,4 +1,6 @@
-# attribute-binding
+# Attribute Binding
+
+https://angular.io/guide/attribute-binding
 
 In Angular, attribute binding is a way to dynamically bind values from component properties to HTML attributes. It allows you to set values for HTML attributes based on the state or data within your Angular component.
 
