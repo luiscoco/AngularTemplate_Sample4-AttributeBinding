@@ -2,6 +2,8 @@
 
 https://angular.io/guide/attribute-binding
 
+https://stackblitz.com/~/github.com/luiscoco/AngularTemplate_Sample4-AttributeBinding
+
 In Angular, attribute binding is a way to dynamically bind values from component properties to HTML attributes. It allows you to set values for HTML attributes based on the state or data within your Angular component.
 
 Attribute binding is denoted by square brackets ([]) and can be used with any standard HTML attribute. It enables you to dynamically update attribute values based on changes in your component's properties.
